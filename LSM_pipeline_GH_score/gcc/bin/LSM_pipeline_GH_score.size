@@ -1,0 +1,75 @@
+   text	   data	    bss	    dec	    hex	filename
+    132	     64	      0	    196	     c4	bin/am_resources.o
+     88	      0	      0	     88	     58	bin/am_util_delay.o
+    354	      0	    512	    866	    362	bin/am_util_faultisr.o
+    492	      0	      0	    492	    1ec	bin/am_util_id.o
+   3775	      0	   1029	   4804	   12c4	bin/am_util_stdio.o
+    882	      0	      0	    882	    372	bin/am_util_string.o
+  19097	 947696	   6677	 973470	  eda9e	bin/LSM_pipeline_GH_score.o
+    600	      0	      1	    601	    259	bin/diskio.o
+  23337	      0	      7	  23344	   5b30	bin/ff.o
+      0	      0	      0	      0	      0	bin/ffsystem.o
+   1558	      0	      0	   1558	    616	bin/ffunicode.o
+   2656	      1	      9	   2666	    a6a	bin/lsm6dsl.o
+   6047	      0	      0	   6047	   179f	bin/Gait_health_score.o
+   1204	   4096	      0	   5300	   14b4	bin/startup_gcc.o
+   3500	      0	     22	   3522	    dc2	bin/sdcard_spi.o
+    120	      4	      0	    124	     7c	bin/system_apollo510.o
+  53951	1766244	  13570	1833765	 1bfb25	bin/gait_pipeline.o
+ 530944	      0	      0	 530944	  81a00	bin/sim_imu_data.o
+    208	      0	      0	    208	     d0	am_hal_access.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   2652	      0	    109	   2761	    ac9	am_hal_adc.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   6055	      0	    112	   6167	   1817	am_hal_audadc.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+     96	      0	      0	     96	     60	am_hal_bootrom_helper.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   1224	      3	      0	   1227	    4cb	am_hal_cachectrl.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+  17064	      0	      0	  17064	   42a8	am_hal_card.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    276	    296	      0	    572	    23c	am_hal_card_host.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   1368	      0	      4	   1372	    55c	am_hal_clkgen.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   8136	     26	    133	   8295	   2067	am_hal_clkmgr.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   2044	      0	    528	   2572	    a0c	am_hal_cmdq.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    576	     32	      4	    612	    264	am_hal_dcu.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    728	      0	      4	    732	    2dc	am_hal_debug.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   3964	      4	     25	   3993	    f99	am_hal_dsi.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    100	      0	      0	    100	     64	am_hal_global.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   2352	      0	   3584	   5936	   1730	am_hal_gpio.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   4404	      0	    272	   4676	   1244	am_hal_i2s.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    684	      1	      0	    685	    2ad	am_hal_info.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    220	      0	      0	    220	     dc	am_hal_infoc.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+     24	      0	      0	     24	     18	am_hal_interrupt.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+  10996	      0	  17728	  28724	   7034	am_hal_iom.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   3976	      0	    368	   4344	   10f8	am_hal_ios.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    540	      0	      4	    544	    220	am_hal_itm.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   1444	      8	      0	   1452	    5ac	am_hal_mcuctrl.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   1004	      0	      0	   1004	    3ec	am_hal_mpu.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    324	      0	      0	    324	    144	am_hal_mram.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+     80	      0	      0	     80	     50	am_hal_mram_recovery.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+  10444	      0	   9024	  19468	   4c0c	am_hal_mspi.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   2636	      0	    128	   2764	    acc	am_hal_pdm.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   7168	      0	      0	   7168	   1c00	am_hal_pin.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   5253	     18	    164	   5435	   153b	am_hal_pwrctrl.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    272	      0	      0	    272	    110	am_hal_queue.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    427	      0	      4	    431	    1af	am_hal_reset.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   1508	      0	      0	   1508	    5e4	am_hal_rtc.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   6584	    256	    176	   7016	   1b68	am_hal_sdhc.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    400	      0	     12	    412	    19c	am_hal_secure_ota.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    600	      0	      0	    600	    258	am_hal_security.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   1588	      1	    195	   1784	    6f8	am_hal_spotmgr.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   1164	      6	      8	   1178	    49a	am_hal_spotmgr_pcm0_7.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   3236	      4	     18	   3258	    cba	am_hal_spotmgr_pcm2_0.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   6188	     13	     13	   6214	   1846	am_hal_spotmgr_pcm2_1.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+  12573	    122	     26	  12721	   31b1	am_hal_spotmgr_pcm2_2.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   1440	     32	      1	   1473	    5c1	am_hal_stimer.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   2808	      0	      8	   2816	    b00	am_hal_sysctrl.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   3305	      0	      8	   3313	    cf1	am_hal_syspll.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    316	      0	      1	    317	    13d	am_hal_systick.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   3204	      0	      0	   3204	    c84	am_hal_timer.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    284	      0	      2	    286	    11e	am_hal_tpiu.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   4808	      0	   1136	   5944	   1738	am_hal_uart.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   5796	      0	   1392	   7188	   1c14	am_hal_uart_stream.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+  12844	      4	    605	  13453	   348d	am_hal_usb.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    324	      0	      0	    324	    144	am_hal_utils.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+    428	      0	      0	    428	    1ac	am_hal_wdt.o (ex ../../../../../../mcu/apollo510/hal/mcu/gcc/bin/libam_hal.a)
+   6386	     74	    269	   6729	   1a49	am_bsp.o (ex ../../../../bsp/gcc/bin/libam_bsp.a)
+      0	    720	     36	    756	    2f4	am_bsp_pins.o (ex ../../../../bsp/gcc/bin/libam_bsp.a)
+   8932	     16	     62	   9010	   2332	am_devices_em9305.o (ex ../../../../bsp/gcc/bin/libam_bsp.a)
+ 178312	   2628	2754964	2935904	 2ccc60	bin/LSM_pipeline_GH_score.axf

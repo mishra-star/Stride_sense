@@ -1,0 +1,8 @@
+device AP510NFA-CBR
+if swd
+speed 4000
+connect
+loadbin bin/LSM_pipeline_GH_score.bin 0x00410000
+r
+q
+
